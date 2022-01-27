@@ -1,6 +1,6 @@
 # Bengali Text Visualization using Word2Vec Model
 
-This repository consists of Bengali Text-Visualization using Word2Vec Model in two parts. One is applied on the dataset of HISTORY OF BENGAL and another is of HISTORY BEHIND THE INDEPENDENCE DAY OF INDIA respectively. All those datas are colleted from Wikipedia.
+This repository consists of Bengali Text-Visualization using Word2Vec Model in two parts. One is applied on the dataset of HISTORY OF BENGAL and another is applied on the dataset of HISTORY BEHIND THE INDEPENDENCE DAY OF INDIA respectively. Data is collected from Wikipedia.
 
 ## Library requirements:
 - Sklearn: Used for data preprocessing, model selection, classification, Regression, clustering.
@@ -12,7 +12,7 @@ This repository consists of Bengali Text-Visualization using Word2Vec Model in t
 Google Colab/ You can use Jupyter also.
 
 ### Details:
-The text visualization has been done  in  two parts.
+The text visualization has been done in two parts.
 - HISTORY OF BENGAL
 - HISTORY BEHIND THE INDEPENDENCE DAY OF INDIA.
 
