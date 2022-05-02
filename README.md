@@ -9,9 +9,10 @@ This repository consists of Bengali Text-Visualization using Word2Vec Model in t
 - Used Amar Bangla bengali font & sample texts are collected from Wikipedia.
 
 ## Tools:
-Google Colab/ You can use Jupyter also
-Wor2Vec from Gensim
-Matploitlib Pyplot
+- Google Colab/ You can use Jupyter also
+- Language: Python
+- Wor2Vec from Gensim
+- Matploitlib Pyplot
 
 ### Details:
 The text visualization has been done in two parts.
